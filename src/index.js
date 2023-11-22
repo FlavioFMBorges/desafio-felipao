@@ -10,7 +10,6 @@ let Ascendente = [8.001, 9.000]
 let Imortal = [9.001, 10.000]
 let Radiante = [10.001]
 
-
 if(xpDoHeroi <= ferro){
     console.log("O Herói de nome " +  nomeDoHeroi, "está no nível de " + nivelDoHeroi[0])
 }else if((xpDoHeroi >= bronze[0]) && (xpDoHeroi <= bronze[1])){
